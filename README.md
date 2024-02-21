@@ -13,7 +13,7 @@ Meals App created using flutter.
 
 ![1708546335487](https://github.com/asheesh20/meals_app/assets/98988175/27c10afa-26da-4e0f-9531-fd048cc6502c)
 
-![1708546335474](https://github.com/asheesh20/meals_app/assets/98988175/045a2959-f013-4f19-a65b-9ad10c1ba58f)
+![1708546811097](https://github.com/asheesh20/meals_app/assets/98988175/fec9991d-d311-478d-abca-d1545e7bf840)
 
 
 
