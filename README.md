@@ -1,6 +1,22 @@
-# meals
+# Meals App
 
-A new Flutter project.
+Meals App created using flutter.
+
+## Screenshots
+
+
+![1708546335521](https://github.com/asheesh20/meals_app/assets/98988175/aaddeb44-0dd5-485a-9c61-dc39b7cb3ccf)
+
+![1708546335509](https://github.com/asheesh20/meals_app/assets/98988175/8d4aaecf-94a1-46ea-a609-90d85eb589f0)
+
+![1708546335498](https://github.com/asheesh20/meals_app/assets/98988175/f8366eba-77a8-485e-a059-3013075af099)
+
+![1708546335487](https://github.com/asheesh20/meals_app/assets/98988175/27c10afa-26da-4e0f-9531-fd048cc6502c)
+
+![1708546335474](https://github.com/asheesh20/meals_app/assets/98988175/045a2959-f013-4f19-a65b-9ad10c1ba58f)
+
+
+
 
 ## Getting Started
 
